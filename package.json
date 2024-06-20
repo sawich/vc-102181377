@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "node ./src/index.mjs"
+  },
+  "engines": {
+    "node": "^22.2.0",
+    "vscode": "^1.22.0"
+  }
+}
